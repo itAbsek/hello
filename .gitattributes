@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<head> 
+     <title>Testing PAge</title>
+</head>
+<body>
+    <h1>Hey i am gonna kill you. </h1>
+    <p>Hey i am paragraph</p>
+    <a href="https://google.com" target="blank" title="fuck off man">Click me a am the link</a>
+    <p>My name is pussy <br>
+    Pussy cat   </p>
+    <img src="https://media.istockphoto.com/photos/three-agile-cats-in-the-summer-in-a-sunny-meadow-they-play-on-the-picture-id1300278981?s=612x612">
+</head>
+</html>
